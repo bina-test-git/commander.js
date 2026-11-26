@@ -1146,3 +1146,5 @@ Older major versions of Commander receive security updates for 12 months. For mo
 The main forum for free and community support is the project [Issues](https://github.com/tj/commander.js/issues) on GitHub.
 
 <!-- E2E test edit: a note on subcommand aliases, see issue #3. -->
+
+<!-- E2E W-6: a PR closed without merging. -->
