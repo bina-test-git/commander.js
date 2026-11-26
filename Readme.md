@@ -1144,3 +1144,5 @@ The current version of Commander is fully supported on Long Term Support version
 Older major versions of Commander receive security updates for 12 months. For more see: [Release Policy](./docs/release-policy.md).
 
 The main forum for free and community support is the project [Issues](https://github.com/tj/commander.js/issues) on GitHub.
+
+<!-- E2E test edit: a note on subcommand aliases, see issue #3. -->
